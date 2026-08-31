@@ -1,4 +1,4 @@
-nano .github/workflows/ci.ymlname: Python CI
+name: Python CI
 on:
   push:
     branches:
